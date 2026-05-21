@@ -1,5 +1,17 @@
 # NOTES
 
+## AI Assistance
+
+AI tools were used for:
+- FastAPI guidance
+- Debugging
+- API structure suggestions
+- README and NOTES formatting
+
+All code was reviewed and understood before submission.
+
+- Basic API tests for batch/status/results/failures endpoints
+
 ## Overview
 
 This implementation focuses on delivering the core backend workflow with clean API design, batch processing logic, failure handling, and multi-tenant support using FastAPI.

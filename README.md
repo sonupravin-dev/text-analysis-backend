@@ -43,3 +43,15 @@ Body:
   "python backend",
   "fastapi project"
 ]
+
+## Run Tests
+
+pytest
+
+## Design Notes
+
+- FastAPI-based backend for batch text processing
+- Multi-tenant isolation using request headers
+- Partial failure handling supported
+- SQLite used for lightweight persistence
+- Current implementation focuses on core workflow and API behavior
